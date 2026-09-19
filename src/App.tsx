@@ -1,13 +1,12 @@
-import './App.css'
+import "./App.css";
+import Navbar from "./components/Navbar";
 
 function App() {
-
   return (
-    <>
-      <h1>Dev Stack</h1>
-      <button className="btn btn-success">Success</button>
-    </>
-  )
+    <main className="w-full pb-12">
+      <Navbar />
+    </main>
+  );
 }
 
-export default App
+export default App;
