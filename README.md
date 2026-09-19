@@ -1,7 +1,6 @@
 # 🚀 Dev Stack
 
 ## 1. Project Name: **Dev Stack**
-
 A modern Tech Stack Builder & Technology Showcase web application.
 
 ---
