@@ -41,7 +41,7 @@ Enjoy a clean and responsive experience across desktop, tablet, and mobile devic
 ---
 
 ## 5. Live Website
-
+https://inspiring-phoenix-8b0969.netlify.app/
 
 ## 6. GitHub Repository
 https://github.com/saikot-shahriyar/dev-stack
