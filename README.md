@@ -73,6 +73,7 @@ React needs a unique key to know which item is which. It helps React update the 
 ### 6. What is conditional rendering? Show one place you used it.
 
 Conditional rendering means showing something only when a condition is true. For example, I show an empty message when the user's stack has no items.
+
 {stack.length === 0 && <p>Your stack is empty.</p>}
 
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
