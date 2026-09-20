@@ -4,13 +4,12 @@ const TechContent = () => {
             <div className="mb-6">
                 <h2 className="text-[#0F172A] font-extrabold text-4xl mb-2">
                     Explore the{" "}
-                    <span className="bg-linear-to-r from-[#FF5722] via-[#D81B7E] to-[#7C3AED] bg-clip-text text-transparent">
-                        Technologies
-                    </span>
+                    {
+                        <span className="bg-linear-to-r from-[#FF5722] via-[#D81B7E] to-[#7C3AED] bg-clip-text text-transparent">
+                            Technologies
+                        </span>
+                    }
 
-                    {/* <span className="bg-linear-to-r from-[#EC4899] to-[#8B5CF6] bg-clip-text text-transparent">
-                        Technologies
-                    </span> */}
                 </h2>
 
                 <p className="text-[#64748B] text-base font-normal">
@@ -22,6 +21,3 @@ const TechContent = () => {
 };
 
 export default TechContent;
-
-
-// bg - linear - to - r from - [#FF5722] via - [#D81B7E] to - [#7C3AED] bg - clip - text text - transparent
