@@ -52,7 +52,7 @@ https://github.com/saikot-shahriyar/dev-stack
 
 ### 1. What is JSX, and why is it used in React?
 
-=> JSX lets us write HTML-like code inside JavaScript. I use JSX in React because it makes writing the UI much easier and cleaner.
+JSX lets us write HTML-like code inside JavaScript. I use JSX in React because it makes writing the UI much easier and cleaner.
 
 ### 2. What is the difference between props and state?
 
